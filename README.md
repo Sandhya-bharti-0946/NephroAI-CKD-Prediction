@@ -1,2 +1,2 @@
 # NephroAI-CKD-Prediction
-Explainable AI Based Chronic Kidney Disease Prediction Platform
+An Explainable AI-based healthcare platform for Chronic Kidney Disease prediction using Machine Learning, SHAP, LIME, and Streamlit.
